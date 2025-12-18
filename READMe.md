@@ -1,9 +1,9 @@
 <div align="left">
-  <h1>Assalamualaikum</h1>
+  <h1 align="center">Assalamualaikum</h1>
 
-  <h2>Hi 👋, I'm Sabbir Hossain</h2>
+  <h2 align="center">Hi 👋, I'm Sabbir Hossain</h2>
 
-  <p>
+  <p align="center">
     I'm a Frontend Developer focused on building modern, high-quality web experiences. 
     I create scalable user interfaces, optimize performance, and deliver clean, maintainable code 
     using modern tools, frameworks, and industry best practices.
