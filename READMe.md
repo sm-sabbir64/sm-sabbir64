@@ -2,13 +2,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamu+alaikum!;This+is+Sabbir+Hossain....;Nice+to+meet+you!&center=true&size=25&color=4361ee">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This is Sabbir Hossain....; Iam a Web Developer; Nice to meet you!&center=true&size=25&color=4361ee">
   </a>
 </h1>
 
 <h1 align="center">Hi 👋, I'm Sabbir Hossain</h1>
 <h3 align="center">I'm a Frontend Developer focused on building modern, high-quality web experiences. I create scalable user interfaces, optimize performance, and deliver clean, maintainable code using modern tools, frameworks, and industry best practices.</h3>
 
+## 👨‍💻 Skills & Experiance:
 ---
 #### 💻 Frontend
 ### Tech Stack
@@ -45,7 +46,17 @@
  </p>
 ---
 
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
+
 <p align="center">
-  🌟 *Thanks for visiting my GitHub profile!* 🌟  
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsonnet&hide_border=false"/>
 </p>
-<!--
+
+ <p align="center">
+  <a href="https://github.com/ihsonnet">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=ihsonnet&show_icons=true&count_private=true">
+  </a>
+  <a href="https://github.com/ihsonnet">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ihsonnet&layout=compact&langs_count=6" />
+  </a>
+ </p>
