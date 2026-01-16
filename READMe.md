@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Sabbir+Hossain....;I+am+a+Web+Developer;Nice+to+meet+you!&center=true&size=25&color=4361ee">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+a+front+end+web+developer.+I+provide+various+types+of+web+services...!&center=true&size=25&color=4361ee">
   </a>
 </h1>
 
@@ -39,7 +39,7 @@
   <a href="https://www.facebook.com/sm.sabbir9671">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-
+<br>
    <a href="https://x.com/sm_sabbir64">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
@@ -49,14 +49,14 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsonnet&hide_border=false"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sm-sabbir64&hide_border=false"/>
 </p>
 
  <p align="center">
-  <a href="https://github.com/ihsonnet">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=ihsonnet&show_icons=true&count_private=true">
+  <a href="https://github.com/sm-sabbir64">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=sm-sabbir64&show_icons=true&count_private=true">
   </a>
-  <a href="https://github.com/ihsonnet">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ihsonnet&layout=compact&langs_count=6" />
+  <a href="https://github.com/sm-sabbir64">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sm-sabbir64&layout=compact&langs_count=6" />
   </a>
  </p>
